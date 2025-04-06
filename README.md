@@ -1,6 +1,6 @@
 <div align="center">
   
-## **PumpFun Sniper Bot** | **Automated Snipe Pumpfun tokens**
+## **PumpFun Sniper Bot** | **Automated Snipe Pumpfun tokens** 🚀🔍
 
 </div>
 
